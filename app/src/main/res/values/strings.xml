@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anagrams Application</string>
+    <string name="enter_anagram">Enter Anagram</string>
+    <string name="save">Save</string>
+    <string name="output">Output</string>
+    <string name="_0">0</string>
+    <string name="container">container</string>
+</resources>
